@@ -140,3 +140,57 @@ Created on: Fri Apr 06 04:05:05 +0000 2018
 Tweet content: All about this backend development!
 ------------------------
 
+User Command: node liri.js movie-this blade runner 2049 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Blade Runner 2049
+Year Released: 06 Oct 2017
+IMBD Rating: 8.2
+Country Produced: USA, UK, Hungary, Canada
+Language: English, Finnish, Japanese, Hungarian, Russian, Somali, Spanish
+Plot: Thirty years after the events of the first film, a new blade runner, LAPD Officer K (Ryan Gosling), unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard (Harrison Ford), a former LAPD blade runner who has been missing for 30 years.
+Actors: Ryan Gosling, Dave Bautista, Robin Wright, Mark Arnold
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/untitled_blade_runner_project/
+
+User Command: node liri.js movie-this blade runner 2049 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Blade Runner 2049
+Year Released: 06 Oct 2017
+IMBD Rating: 8.2
+Country Produced: USA, UK, Hungary, Canada
+Language: English, Finnish, Japanese, Hungarian, Russian, Somali, Spanish
+Plot: Thirty years after the events of the first film, a new blade runner, LAPD Officer K (Ryan Gosling), unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard (Harrison Ford), a former LAPD blade runner who has been missing for 30 years.
+Actors: Ryan Gosling, Dave Bautista, Robin Wright, Mark Arnold
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/untitled_blade_runner_project/
+
+User Command: node liri.js movie-this blade runner 2049 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Blade Runner 2049
+Year Released: 06 Oct 2017
+IMBD Rating: 8.2
+Country Produced: USA, UK, Hungary, Canada
+Language: English, Finnish, Japanese, Hungarian, Russian, Somali, Spanish
+Plot: Thirty years after the events of the first film, a new blade runner, LAPD Officer K (Ryan Gosling), unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard (Harrison Ford), a former LAPD blade runner who has been missing for 30 years.
+Actors: Ryan Gosling, Dave Bautista, Robin Wright, Mark Arnold
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/untitled_blade_runner_project/
+
